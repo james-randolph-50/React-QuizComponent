@@ -3,7 +3,7 @@
     {
       "id": 1,
       "instruction_text": "What's the tallest building in NYC?",
-      "answer_options": ["The Freedom Tower (One World Trade)", "Empire State Building", "432 Park Ave.", "The Statue of Liberty"],
+      "answer_options": ["The Freedom Tower (One World Trade)", "Empire State Building", "432 Park Ave", "The Statue of Liberty"],
       "answer": "The Freedom Tower (One World Trade)"
     },
     {
@@ -18,5 +18,17 @@
       "answer_options": ["1922", "1928", "1930", "1925"],
       "answer": "1928"
     },
+    {
+      "id": 4,
+      "instruction_text": "How many burroughs are there in NYC?",
+      "answer_options": ["4", "5", "6", "7"],
+      "answer": "5"
+    },
+    {
+      "id": 4,
+      "instruction_text": "What year did the original Yankee Stadium open?",
+      "answer_options": ["1922", "1918", "1930", "1923"],
+      "answer": "1923"
+    }
   ]
 }
