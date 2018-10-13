@@ -14,12 +14,6 @@
     },
     {
       "id": 3,
-      "instruction_text": "What year did construction for the Chrysler Building start?",
-      "answer_options": ["1922", "1928", "1930", "1925"],
-      "answer": "1928"
-    },
-    {
-      "id": 4,
       "instruction_text": "How many burroughs are there in NYC?",
       "answer_options": ["4", "5", "6", "7"],
       "answer": "5"
